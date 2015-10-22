@@ -25,7 +25,7 @@ body {
 	display: block; }
 
 body {
-	background: ff3300;
+	background: #ff3300;
 }
 }
 @media (max-width: 700px) {
@@ -39,7 +39,7 @@ body {background: #996699;
 	display: block; }
 
 body {
-	background: cc99cc;
+	background: #cc99cc;
 }
 }
 @media (max-width: 320px) {
