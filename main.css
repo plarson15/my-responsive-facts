@@ -15,39 +15,38 @@
 @media (max-width: 1200px) {
 .two {
 	display: block; }
-}
+
 body {
 	background: #ccccff;
 }
-
+}
 @media (max-width: 900px) {
 .three {
 	display: block; }
-}
+
 body {
 	background: ff3300;
 }
-
+}
 @media (max-width: 700px) {
-.four {
-	display: block; }
-}
-body {
-	background: #996699;
-}
+.four {display: block; }
 
+body {background: #996699;
+}
+}
 @media (max-width: 500px) {
 .five {
 	display: block; }
-}
+
 body {
 	background: cc99cc;
 }
-
+}
 @media (max-width: 320px) {
 .six {
 	display: block; }
-}
+
 body {
 	background:blue ;
+}
 }
